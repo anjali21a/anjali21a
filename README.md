@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN,Android**
 
-- 📫 How to reach me **ak9587769@gmail.com**
+- 📫 How to reach me **connectkumarianjali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
